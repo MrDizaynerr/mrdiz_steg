@@ -1,0 +1,2 @@
+hide - python [.py file] [image file] [.txt with text]
+get - python [.py file] [image secret file] [key image file]
